@@ -1,2 +1,2 @@
-def display_rainbow(array)
-  
+def display_rainbow(rainbow)
+  puts "R: #{rainbow[0]}, O: #{"
